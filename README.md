@@ -11,6 +11,7 @@ Comment lancer l'app :
 
 - Après avoir clone le projet :
 - Se placer dans la racine du projet
+- lancer npm install
 - lancer "npx expo start" ou "npm start"
 - scanner le qr code
 
